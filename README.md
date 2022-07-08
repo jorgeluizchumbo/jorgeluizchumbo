@@ -2,7 +2,7 @@
 
 ### Obrigado por visitar meu perfil GitHub
 
-### Sou Engenheiro Mecânico formado pelo Centro Universitário da FEI, e atualmente dedico meus estudos à Ciência de Dados.
+### Tenho 28 anos, sou Engenheiro Mecânico formado pelo Centro Universitário da FEI e atualmente dedico meus estudos à Ciência de Dados.
 
 ### Trabalhei por 7 anos e 5 meses em uma consultoria para Concessionárias e Permissionárias de eletrificação rural, adquirindo experiência com extração, manipulação e análise de dados, o que me fez criar um enorme interesse pela área de dados e programação, iniciando assim minha transição de carreira.
 
