@@ -6,7 +6,7 @@
 
 ### :coffee::football::basketball: Amante de café e esportes (principalmente NFL e NBA).
 
-### Me apaixonei pela área de dados e pela programação devido à minha experiência profissional. Trabalhei por 7 anos e 5 meses em uma consultoria para Concessionárias e Permissionárias de eletrificação rural, adquirindo experiência com extração, manipulação e análise de dados, iniciando assim minha transição de carreira.
+### Me apaixonei pela área de dados e pela programação devido à minha experiência profissional. Trabalhei quase uma década em uma consultoria para Concessionárias e Permissionárias de eletrificação rural, adquirindo experiência com extração, manipulação e análise de dados, iniciando assim minha transição de carreira.
 
 ### :computer: Ferramentas e Tecnologias
 
