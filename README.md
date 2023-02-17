@@ -2,7 +2,7 @@
 
 ### Obrigado por visitar meu perfil GitHub
 
-### Tenho 28 anos, sou Engenheiro Mecânico formado pelo Centro Universitário da FEI e atualmente dedico meus estudos à Ciência de Dados.
+### Tenho 29 anos, sou Engenheiro Mecânico formado pelo Centro Universitário da FEI e atualmente dedico meus estudos à Ciência de Dados.
 
 ### :coffee::football::basketball: Amante de café e esportes (principalmente NFL e NBA).
 
